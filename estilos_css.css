@@ -1,0 +1,26 @@
+.contenedor {
+    display: inline-grid;
+    grid-template-columns: auto auto;
+    width: 100%;
+    justify-content: center;
+    justify-items: center;
+}
+
+
+
+.lista_ordenada ol {
+
+    margin-left: 37px;
+}
+
+
+.lista_no_ordenada {
+    margin-left: 48px;
+
+}
+
+
+.lista_no_ordenada ul {
+    margin-left: 58px;
+
+}
